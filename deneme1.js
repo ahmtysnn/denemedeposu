@@ -1,2 +1,2 @@
-console.log('deneme1');
-console.log('trying1');
+console.log('deneme2');
+console.log('trying2');

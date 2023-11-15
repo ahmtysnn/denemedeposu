@@ -1,2 +1,2 @@
-console.log('ilkdeneme');
-console.log('firsttrying');
+console.log('ikincideneme');
+console.log('secondtrying');
